@@ -1,7 +1,7 @@
 <template>
-  <div class="header p-2 text-light bg-secondary">
+  <header class="header p-2 text-light bg-secondary">
     <h1>Lista de Compras</h1>
-  </div>
+  </header>
 </template>
 
 <style scoped>

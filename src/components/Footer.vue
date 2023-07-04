@@ -1,8 +1,8 @@
 <template>
-  <div class="footer p-3 text-light bg-secondary">
-    <h6>Feito por: Marlon Fabchacki Pereira</h6>
+  <footer class="footer p-3 text-light bg-secondary">
+    <h6>Feito por: Marlon Fabichacki Pereira</h6>
     <h6>Tecnologia Para Desenvolvimento de Sistemas - Trabalho 4</h6>
-  </div>
+  </footer>
 </template>
 
 <style scoped>
